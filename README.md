@@ -16,3 +16,6 @@
 * Used structured Verilog descriptions for all aspects, except for test bench, so I used behavioral Verilog description for test bench only.
 * The Verilog HDL code must be able to be compiled in the same way with the instructions below.
 
+## Run
+
+> Open cmd at the same dircetory and type ``` iverilog -o ass ass_circuit.vl ```
