@@ -18,7 +18,7 @@
 
 ## Run
 
-> Open cmd at the same dircetory and type ``` iverilog -o ass ass_cir.vl ```
+> Open cmd at the same dircetory and type ``` iverilog -o assv ass_cir.v ```
 
 
-> Then type in the next line ``` vvp ass  ```
+> Then type in the next line ``` vvp assv  ```
